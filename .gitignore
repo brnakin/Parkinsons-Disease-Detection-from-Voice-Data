@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Conda env
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Bash
+*.sh
+
+# Prompt
+prompt.txt
